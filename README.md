@@ -1,6 +1,6 @@
 # COVID Portfolio Project
-This repositroy is to show the exploratory data analysis I did using SQL.
-The resulting data will be visualizedi n Tableau and Power BI (soon).
+This repository is to show the exploratory data analysis I did using SQL.
+The resulting data will be visualized in Tableau and Power BI (soon).
 Links to both will be added to this ReadME to keep the project in one place.
 
 
