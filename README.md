@@ -5,6 +5,6 @@ Links to both will be added to this ReadME to keep the project in one place.
 
 
 I could not have done this without the inspiration from Alex the Analyst's Portfolio projects series. 
-Please note: Alex gives basic ideas and encourages viewers to go beyond his basic queries to create something amazing that is thier own.
+Please note: Alex gives basic ideas and encourages viewers to go beyond his basic queries to create something amazing that is their own.
 
 Thank you for following along in my Data Anlytics journey. 
